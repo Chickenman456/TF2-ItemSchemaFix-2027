@@ -702,6 +702,3 @@ OTHER ATTRIBUTE CHANGES (1)
 OTHER ASSISTER ATTRIBUTE CHANGE (1)
 
 - Duck Badge: added `counts_as_assister`
-
-OTHER METADATA CHANGES (1)
-- Strange Filter: Penguin Peak (Community): tool setting (none) → (none)
